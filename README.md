@@ -25,11 +25,7 @@ private Button CreateNewButton(Control control, string name, string text, Point 
 
 ---
 
-# 2. Sorold fel a tanult 5 speciális adatszerkezetet!
-
----
-
-# 3. Mutasd be a speciális adatszerkezetek deklarálását (példányosítását) és jellemezd őket!
+# 2. Sorold fel a tanult 5 speciális adatszerkezetet!<br>3. Mutasd be a speciális adatszerkezetek deklarálását (példányosítását) és jellemezd őket!
 
 ```csharp
 /// <List>
@@ -83,9 +79,7 @@ Az öröklődés (angolul: inheritance) egy objektumorientált programozási (OO
 
 ---
 
-# 5. Készítsünk kódszinten egy Etel osztályt 3 tulajdonsággal: súly, név és ár, konstruktorral!
-
-# 6. Származtassunk az Etel osztályból egy gulyas osztályt és legyen saját tulajdonsága 2 db: -csípős, -magyaros!
+# 5. Készítsünk kódszinten egy Etel osztályt 3 tulajdonsággal: súly, név és ár, konstruktorral!<br>6. Származtassunk az Etel osztályból egy gulyas osztályt és legyen saját tulajdonsága 2 db: -csípős, -magyaros!
 
 ```csharp
 class Food
